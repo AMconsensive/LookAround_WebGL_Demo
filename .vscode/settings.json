@@ -1,0 +1,9 @@
+{
+    "liveServer.settings.port": 3125,
+    "liveServer.settings.https": {
+      "enable": true,
+      "cert": "/Users/Mehta/UnityProjects/BasicLookAround/WebGL/localhost.pem",
+      "key": "/Users/Mehta/UnityProjects/BasicLookAround/WebGL/localhost.key",
+      "passphrase": "1231234"
+    }
+  }
